@@ -1,60 +1,48 @@
 # ProjPlatformPaymentsPal-08.14.25
 ENS-PayPal Staked Commerce @ ETHGlobal Hackathon: A decentralized escrow system using ENS domains (e.g., supplier.project.eth) to structure payments. Chainlink oracles verify real-world milestones, while PayPal/PYUSD bridges fiat &amp; crypto. Enables transparent, performance-based supply chain finance.
 
-Looking for partners to build this (per GPT-5)
-Hackathon fit-check (copy-paste)
-Core (you already chose)
-ENS + Chainlink Functions/Automation + PayPal (PYUSD)
+# Title: Looking for partners to build this (per GPT-5)
 
-Walrus (sidecar storage): store invoices/PoD media; put sha256 + walrus://id on-chain.
+### Core (already chosen)
+* **ENS + Chainlink Functions/Automation + PayPal (PYUSD)**
+* **Walrus (sidecar storage):** store invoices/PoD media; put `sha256` + `walrus://id` on-chain.
 
-Easiest add-ons from sponsors (minimal friction)
-LayerZero (Omnichain state mirror)
-Why: Qualify for Best Omnichain Interaction.
+---
 
-Hook: On each milestone release, push a message to a mirror contract on a 2nd chain:
+## Hackathon Fit-Check: Easiest Add-ons from Sponsors
 
-solidity
-Copy
-Edit
-releaseLog(projectId, milestoneId, proofHash);
-APIs: OApp send/receive (push), lzRead (pull), Composer (chained calls).
+### LayerZero — _Omnichain state mirror_
+* **Why:** Qualify for the **Best Omnichain Interaction** prize.
+* **Hook:** On each milestone release, push a message to a mirror contract on a second chain. This logs the state change across chains.
 
-Circle (USDC power-ups)
-CCTP v2: Offer merchant “desired chain” payouts; escrow on Base, deliver USDC on merchant’s chain.
+    ```solidity
+    releaseLog(projectId, milestoneId, proofHash);
+    ```
 
-Paymaster: Let users pay gas in USDC (smoother UX).
+### Circle — USDC Power-ups
+* **CCTP v2:** Offer merchants "desired chain" payouts. The escrow is on one chain (e.g., Base), but the payment is delivered in USDC on the merchant's preferred chain.
+* **Paymaster:** Let users pay gas fees in USDC, creating a smoother user experience by removing the need for native tokens.
+* **Gateway (testnet):** Use this to give users a single USDC balance, enabling a chain-abstracted checkout experience.
 
-Gateway (testnet): Single USDC balance, chain-abstracted checkout.
+### ENS — Prize Alignment
+* **Best use of ENS:** Use milestone subnames (e.g., `2.supplier-alice.project.eth`), store Walrus URIs in ENS text records, and use CCIP-Read for L2 resolution.
+* **L2 Primary Names:** Set reverse records on a supported L2 (Base, Optimism, Linea, or Arbitrum) for all project participants.
 
-ENS prize alignment
-Best use of ENS: Milestone subnames (2.supplier-alice.project.eth), ENS text records for Walrus URIs, CCIP-Read for L2 resolution.
+### Hardhat 3 — Tooling Prize
+* **Why:** Hardhat is the standard for Solidity development. You're already using Solidity, so building and testing with Hardhat is a natural fit.
+* **Hook:** Build and test your project with Hardhat 3. Include well-documented scripts and a clean README for your code.
 
-L2 Primary Names: Set reverse record on Base/OP/Linea/Arbitrum for all participants.
+### Dynamic or Privy — Embedded Wallets
+* **Why:** These services can help you compete for "Best Consumer App" prizes by providing dead-simple onboarding. Users (suppliers and buyers) don't need to be crypto-native.
+* **Hook:** Integrate embedded wallets with social or passkey login. Allow users to fund their accounts with PayPal/PYUSD or USDC.
 
-Hardhat 3 (tooling prize)
-Why: You’re using Solidity anyway.
+### Lit Protocol (Vincent) — Delegation & Safety Rails
+* **Why:** This adds a governance and operational layer to your project.
+* **Hook:** Create a "Vincent Policy" that governs agent actions. For example, a policy could state: "An agent may call `requestRelease(milestoneId)` only if the oracle proof hash matches on-chain and the action is taken before a specific deadline."
 
-Hook: Build & test with Hardhat 3; include scripts + clean README.
-
-Dynamic or Privy (embedded wallets)
-Why: “Best Consumer App” style prizes; dead-simple onboarding for suppliers/buyers with no wallets.
-
-Hook: Embedded wallets + social/passkey login; fund with PayPal/PYUSD or USDC.
-
-Lit Protocol (Vincent delegation)
-Why: Governance/ops flair.
-
-Hook: Create a Vincent Policy:
-
-“Agent may call requestRelease(milestoneId) only if oracle proof hash matches on-chain and before deadline.”
-
-Enables human-approved, policy-scoped agent actions.
-
-Walrus (storage prize)
-App use: Upload invoice.json / deliveryProof.jpg to Walrus; store hash on-chain.
-
-Dev tool angle: Tiny CLI that uploads to Walrus and prints { hash, uri } for CI.
+### Walrus — Storage Prize
+* **App use:** Build a feature for uploading invoices and proof-of-delivery documents (`invoice.json` / `deliveryProof.jpg`) to Walrus. Store the file hash on-chain for verification.
+* **Dev tool angle:** Create a small Command Line Interface (CLI) that uploads files to Walrus and prints the `{ hash, uri }` to be used in continuous integration (CI) workflows.
 
 Thank you. 
 **Have your AI call my AI sometimes...**
