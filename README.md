@@ -1,7 +1,7 @@
 # ProjPlatformPaymentsPal-08.14.25
 ENS-PayPal Staked Commerce @ ETHGlobal Hackathon: A decentralized escrow system using ENS domains (e.g., supplier.project.eth) to structure payments. Chainlink oracles verify real-world milestones, while PayPal/PYUSD bridges fiat &amp; crypto. Enables transparent, performance-based supply chain finance.
 
-# Title: Looking for partners to build this (per GPT-5)
+# Title: Looking for partners to build this...
 
 ### Core (already chosen)
 * **ENS + Chainlink Functions/Automation + PayPal (PYUSD)**
