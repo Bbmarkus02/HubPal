@@ -1,6 +1,6 @@
 # 3Pals-08.14.25
 **Projects-Payments-Platform Pals** 08.14.25 <br>
-ENS-PayPal Staked Commerce @ ETHGlobal Hackathon: A decentralized comprehensive project platform - propose, design and create; underwrite, track, participate, build - featuring dynamic escrow-staking system using ENS domains (e.g., supplier.project.eth) to structure milestones, events, certifications, and payments. Chainlink oracles verify real-world milestones, while PayPal/PYUSD - Circle bridges fiat &amp; crypto. Enables dynamic performance staked projects, contracts, tasks, etc. 
+Featuring: ENS, PayPal, ChainLink, Circle, Walrus @ ETHGlobal Hackathon: A decentralized comprehensive project platform - propose, design and create; underwrite, track, participate, build - featuring dynamic escrow-staking system using ENS domains (e.g., supplier.project.eth) to structure milestones, events, certifications, and payments. Chainlink oracles verify real-world milestones, while PayPal/PYUSD - Circle bridges fiat &amp; crypto. Enables dynamic performance staked projects, contracts, tasks, etc. 
 
 # Title: Looking for partners to build this...
 
