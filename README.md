@@ -1,5 +1,5 @@
 # 5Pals-08.14.25
-**Projects-Payments-Platform Pals** 08.14.25 <br>
+**5 Pals: Projects-Payments-Platforms in Plentyful Peace** 08.14.25 <br>
 Featuring: ENS, PayPal, ChainLink, Circle, Walrus @ ETHGlobal Hackathon.<br> A tokenized comprehensive end-to-end project platform - propose, design and create; underwrite, finance, track, and participate; build, track, and manage; tokenized balance sheet (the equity, liabilities, capitalization) - featuring dynamic escrow-staking system using ENS domains (e.g., supplier.project.eth) to structure milestones, events, certifications, and payments. Chainlink oracles verify real-world milestones, while PayPal/PYUSD - Circle bridges fiat &amp; crypto. Enables dynamic performance staked projects, contracts, tasks, etc. and additionally featuring [the new Next UI](https://github.com/HalfHashd/nextui-08.08.25) (See license.)
 
 # Title: Looking for partners to build this...
