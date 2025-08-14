@@ -8,7 +8,7 @@ Highlighed build-to: ENS, PayPal, ChainLink, Circle, Walrus @ ETHGlobal Hackatho
 * **ENS + Chainlink Functions/Automation + PayPal (PYUSD)**
 * **Walrus (sidecar storage):** store invoices/PoD media; put `sha256` + `walrus://id` on-chain.
 * **UI/UX designer for [the new Next UI](https://github.com/HalfHashd/NextUI-08.08.2025).**
-* **Confession: Ch.ung dont code... not since failing Basic eons ago, and got PTSD, so have some heart and join me! We will continue this project, launch it, and take over ze world! This is the 1st of the 1000x10.com, 999 more to set up! ** 
+* **Confession: Ch.ung dont code... not since failing Basic eons ago, and got PTSD, so have some heart and join me. We will continue this project, launch it, and take over ze world! This is the 1st of the 1000x10.com, 999 more/10 years to halfhash and set sail!** 
 ---
 
 ## Hackathon Fit-Check: Easiest Add-ons from Sponsors
