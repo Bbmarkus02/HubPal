@@ -1,7 +1,7 @@
 # ProjPlatformPaymentsPal-08.14.25
 ENS-PayPal Staked Commerce @ ETHGlobal Hackathon: A decentralized escrow system using ENS domains (e.g., supplier.project.eth) to structure payments. Chainlink oracles verify real-world milestones, while PayPal/PYUSD bridges fiat &amp; crypto. Enables transparent, performance-based supply chain finance.
 
-Looking for partners to build this (per GPT5):
+Looking for partners to build this (per GPT-5)
 Hackathon fit-check (copy-paste)
 Core (you already chose)
 ENS + Chainlink Functions/Automation + PayPal (PYUSD)
@@ -10,15 +10,17 @@ Walrus (sidecar storage): store invoices/PoD media; put sha256 + walrus://id on-
 
 Easiest add-ons from sponsors (minimal friction)
 LayerZero (Omnichain state mirror)
-
 Why: Qualify for Best Omnichain Interaction.
 
-Hook: On each milestone release, push a message to a mirror contract on a 2nd chain (releaseLog(projectId,milestoneId,hash)).
+Hook: On each milestone release, push a message to a mirror contract on a 2nd chain:
 
+solidity
+Copy
+Edit
+releaseLog(projectId, milestoneId, proofHash);
 APIs: OApp send/receive (push), lzRead (pull), Composer (chained calls).
 
 Circle (USDC power-ups)
-
 CCTP v2: Offer merchant “desired chain” payouts; escrow on Base, deliver USDC on merchant’s chain.
 
 Paymaster: Let users pay gas in USDC (smoother UX).
@@ -26,36 +28,33 @@ Paymaster: Let users pay gas in USDC (smoother UX).
 Gateway (testnet): Single USDC balance, chain-abstracted checkout.
 
 ENS prize alignment
-
 Best use of ENS: Milestone subnames (2.supplier-alice.project.eth), ENS text records for Walrus URIs, CCIP-Read for L2 resolution.
 
 L2 Primary Names: Set reverse record on Base/OP/Linea/Arbitrum for all participants.
 
 Hardhat 3 (tooling prize)
-
 Why: You’re using Solidity anyway.
 
 Hook: Build & test with Hardhat 3; include scripts + clean README.
 
 Dynamic or Privy (embedded wallets)
-
 Why: “Best Consumer App” style prizes; dead-simple onboarding for suppliers/buyers with no wallets.
 
 Hook: Embedded wallets + social/passkey login; fund with PayPal/PYUSD or USDC.
 
 Lit Protocol (Vincent delegation)
-
 Why: Governance/ops flair.
 
-Hook: Create a Vincent Policy: “Agent may call requestRelease(milestoneId) only if oracle proof hash matches on-chain and before deadline.”
+Hook: Create a Vincent Policy:
+
+“Agent may call requestRelease(milestoneId) only if oracle proof hash matches on-chain and before deadline.”
 
 Enables human-approved, policy-scoped agent actions.
 
 Walrus (storage prize)
-
 App use: Upload invoice.json / deliveryProof.jpg to Walrus; store hash on-chain.
 
-Dev tool angle: Tiny CLI that uploads to Walrus and prints {hash, uri} for CI.
+Dev tool angle: Tiny CLI that uploads to Walrus and prints { hash, uri } for CI.
 
 Thank you. 
 **Have your AI call my AI sometimes...**
