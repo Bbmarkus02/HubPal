@@ -5,7 +5,7 @@ Projects like individual contract work, from business services to supply contrac
  
 **This may be the first such comprehensive platformization in Web 2 and Web 3 - because platformizing projects is darn complicated and complex as there are many components, variety of moving parts, and all the vagaries that happens in the "analog world".**<br>
 
-**Highlighed build-to: ENS, PayPal, ChainLink, Circle, Walrus @ ETHGlobal Hackathon.**<br> HubPal<sup>™</sup> for: 
+**HubPal<sup>™</sup> highlighed build-to @ ETHGlobal Hackathon: ENS, PayPal, ChainLink, Circle, Walrus.**<br> 
 
 A tokenized comprehensive end-to-end project platform - propose, design and create; underwrite, finance; track, and manage; - featuring dynamic escrow-staking system using ENS domains (e.g., supplier.project.eth) to structure payments with the Chainlink oracles verifying the Web 2, real-world audits, while PayPal/PYUSD-Circle bridges fiat &amp and additionally featuring [the new Next UI](https://github.com/HalfHashd/NextUI-08.08.2025). (MIT License + Commons Clause Restriction.)
 
