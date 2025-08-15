@@ -5,7 +5,7 @@ Projects like individual contract work, from business services to supply contrac
  
 **Why is this the first in Web 2 and Web 3 spaces? Because platformizing projects is darn complicated and complex as there are many components, variety of moving parts, and all the vagaries that happens in the "analog world".**<br>
 
-Highlighed build-to: ENS, PayPal, ChainLink, Circle, Walrus @ ETHGlobal Hackathon.<br> HubPal<sup>™</sup> for: A tokenized comprehensive end-to-end project platform - propose, design and create; underwrite, finance; track, and manage; - featuring dynamic escrow-staking system using ENS domains (e.g., supplier.project.eth) to structure payments with the Chainlink oracles verifying the Web 2, real-world audits, while PayPal/PYUSD-Circle bridges fiat &amp and additionally featuring [the new Next UI](https://github.com/HalfHashd/NextUI-08.08.2025). (MIT License + Commons Clause Restriction.)
+**Highlighed build-to: ENS, PayPal, ChainLink, Circle, Walrus @ ETHGlobal Hackathon.**<br> HubPal<sup>™</sup> for: A tokenized comprehensive end-to-end project platform - propose, design and create; underwrite, finance; track, and manage; - featuring dynamic escrow-staking system using ENS domains (e.g., supplier.project.eth) to structure payments with the Chainlink oracles verifying the Web 2, real-world audits, while PayPal/PYUSD-Circle bridges fiat &amp and additionally featuring [the new Next UI](https://github.com/HalfHashd/NextUI-08.08.2025). (MIT License + Commons Clause Restriction.)
 
 # Title: Looking for help - devs, designers, degens to build this...
 
