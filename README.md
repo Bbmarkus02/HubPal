@@ -12,9 +12,10 @@ We will first target users and projects in the blockchain-crypto space. Why? Bec
 A tokenized comprehensive end-to-end project platform - propose, design and create; underwrite, finance; track, and manage; - featuring dynamic escrow-staking system using ENS domains (e.g., supplier.project.eth) to structure payments with the Chainlink oracles verifying the Web 2, real-world audits, while PayPal/PYUSD-Circle bridges fiat &amp and additionally featuring [the new Next UI](https://github.com/HalfHashd/NextUI-08.08.2025). (MIT License + Commons Clause Restriction.)
 
 <h3 align="center">Mission: Don't we all want responsible projects? Make the world safe from dumps and rugs!</h3>
-
-
-
+</p>
+<p align="center">
+  <img src="assets/kids-dumps-upside down 30k.png" alt="HubPal mockup" width="50%">
+</p>
 
 [ Readme: This HubPal project start* date-08.13. It evolved from 2 other project ideas - first was [the new Next UI](https://github.com/HalfHashd/NextUI-08.08.2025) and is being rolled into the currnet project; the second was [the "States-ing"](https://github.com/HalfHashd/States-ing-08.13.2025) with a focus on ENS and theGraph but on hold. *HubPal investigation-ideation started 4 years ago and is part of deep root analysis and investigation into the world's economic model where I deconstructed "everything" - money, debt, what decentralized finance is (clue: its among peers and peers dont have debt, and backed into Sharia Law based finance), and even what is our alphanumeric language. Thus, the platform has been richly ideated out prior to this date, but no code, zip nada, written. ]
 
