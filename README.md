@@ -1,4 +1,6 @@
 # HubPal.org Exec. Summary 
+A hybrid Web2/Web3 platform for project creation, funding, underwriting, milestones, tokenization — with ENS-identity, role–based participation, ChainLink RW oracles, PYUSD/USDC for staking/payments, Walrus, and LayerZero.
+
 **Pioneering - This is the first time that any type of projects are platformized (comprehensively?) in the blockchain space, maybe even the first to be online, eva?!**<br>
 
 Projects like individual contract work, from business services to supply contracts, to community to city to infrastructures and ...endless more. Why is this the first time? Because platformizing projects is darn complicated and complex, and especially decentralized, and tokenized. So ... we are giving each project its own platform with its own "projectAlice.hubpal.eth" ... using ENS, wallet/s, oracles, payments and financing (equity, funding) and much much more. We will continue post hackathon.
