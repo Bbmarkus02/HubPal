@@ -1,9 +1,10 @@
 # HubPal.org-08.14.25
 **Pioneering: This is the first time that any type of projects are platformized in the blockchain space, maybe even the first to be online, eva!**<br>
-**Projects like individual contract work, from business services to supply contracts, to community to city to infrastructures and ...!** 
-**Why is this the first time? Because platformizing projects is darn complicated and complex, and especially decentralized, and tokenized.**<br>
-**So ... we are giving each project its own platform with itsd own "projectAlice.hubpal.eth" .. using ENS, wallet/s, oracles, payments and financing (equity, funding) and much much more. We will continue post hackathon.** 
+
+Projects like individual contract work, from business services to supply contracts, to community to city to infrastructures and ...! Why is this the first time? Because platformizing projects is darn complicated and complex, and especially decentralized, and tokenized. So ... we are giving each project its own platform with itsd own "projectAlice.hubpal.eth" .. using ENS, wallet/s, oracles, payments and financing (equity, funding) and much much more. We will continue post hackathon.
+ 
 **Why is this the first in Web 2 and Web 3 spaces? Because platformizing projects is darn complicated and complex as there are many components, variety of moving parts, and all the vagaries that happens in the "analog world".**<br>
+
 Highlighed build-to: ENS, PayPal, ChainLink, Circle, Walrus @ ETHGlobal Hackathon.<br> HubPal<sup>™</sup> for: A tokenized comprehensive end-to-end project platform - propose, design and create; underwrite, finance; track, and manage; - featuring dynamic escrow-staking system using ENS domains (e.g., supplier.project.eth) to structure payments with the Chainlink oracles verifying the Web 2, real-world audits, while PayPal/PYUSD-Circle bridges fiat &amp and additionally featuring [the new Next UI](https://github.com/HalfHashd/NextUI-08.08.2025). (MIT License + Commons Clause Restriction.)
 
 # Title: Looking for help - devs, designers, degens to build this...
