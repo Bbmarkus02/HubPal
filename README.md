@@ -1,7 +1,7 @@
 # HubPal.org-08.14.25
 **Pioneering - This is the first time that any type of projects are platformized in the blockchain space, maybe even the first to be online, eva?!**<br>
 
-Projects like individual contract work, from business services to supply contracts, to community to city to infrastructures and ...endless more. Why is this the first time? Because platformizing projects is darn complicated and complex, and especially decentralized, and tokenized. So ... we are giving each project its own platform with itsd own "projectAlice.hubpal.eth" .. using ENS, wallet/s, oracles, payments and financing (equity, funding) and much much more. We will continue post hackathon.
+Projects like individual contract work, from business services to supply contracts, to community to city to infrastructures and ...endless more. Why is this the first time? Because platformizing projects is darn complicated and complex, and especially decentralized, and tokenized. So ... we are giving each project its own platform with its own "projectAlice.hubpal.eth" ... using ENS, wallet/s, oracles, payments and financing (equity, funding) and much much more. We will continue post hackathon.
  
 **This may be the first such comprehensive platformization in Web 2 and Web 3 - because platformizing projects is darn complicated and complex as there are many components, variety of moving parts, and all the vagaries that happens in the "analog world".**<br>
 
