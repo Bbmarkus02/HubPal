@@ -4,7 +4,7 @@ Highlighed build-to: ENS, PayPal, ChainLink, Circle, Walrus @ ETHGlobal Hackatho
 
 # Title: Looking for help - devs, designers, degens to build this...
 
-### HUBry Core - this is what we will build out for the ethGlobal hackathon.
+### HubPal project core - this is what we will build out for the ethGlobal hackathon.
 * **ENS + Chainlink Functions/Automation + PayPal (PYUSD)**
 * **Walrus (sidecar storage):** store invoices/PoD media; put `sha256` + `walrus://id` on-chain.
 * **UI/UX designer for [the new Next UI](https://github.com/HalfHashd/NextUI-08.08.2025).**
