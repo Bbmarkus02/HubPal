@@ -1,10 +1,12 @@
 # HubPal.org-08.14.25
-**Pioneering - This is the first time that any type of projects are platformized in the blockchain space, maybe even the first to be online, eva?!**<br>
+**Pioneering - This is the first time that any type of projects are platformized (comprehensively?) in the blockchain space, maybe even the first to be online, eva?!**<br>
 
 Projects like individual contract work, from business services to supply contracts, to community to city to infrastructures and ...endless more. Why is this the first time? Because platformizing projects is darn complicated and complex, and especially decentralized, and tokenized. So ... we are giving each project its own platform with its own "projectAlice.hubpal.eth" ... using ENS, wallet/s, oracles, payments and financing (equity, funding) and much much more. We will continue post hackathon.
- 
-**This may be the first such comprehensive platformization in Web 2 and Web 3 - because platformizing projects is darn complicated and complex as there are many components, variety of moving parts, and all the vagaries that happens in the "analog world".**<br>
 
+This may be the first such comprehensive platformization in Web 2 and Web 3 - because platformizing projects is darn complicated and complex as there are many components, variety of moving parts, and all the vagaries that happens in the "analog world".
+
+We will first target users and projects in the blockchain-crypto space. Why? Because the devs and degens are the most important users or consumers. We have to win them first. That is where we have to work out the kinks, the value propositions, and look for where the HubPal<sup>™</sup> Projects-Payments-Platformizations (PPPx) solutions solves gpas, pain points, and opportunities.  
+ 
 **HubPal<sup>™</sup> highlighed build-to @ ETHGlobal Hackathon: ENS, PayPal, ChainLink, Circle, Walrus.**<br> 
 
 A tokenized comprehensive end-to-end project platform - propose, design and create; underwrite, finance; track, and manage; - featuring dynamic escrow-staking system using ENS domains (e.g., supplier.project.eth) to structure payments with the Chainlink oracles verifying the Web 2, real-world audits, while PayPal/PYUSD-Circle bridges fiat &amp and additionally featuring [the new Next UI](https://github.com/HalfHashd/NextUI-08.08.2025). (MIT License + Commons Clause Restriction.)
@@ -13,7 +15,7 @@ A tokenized comprehensive end-to-end project platform - propose, design and crea
 
 ### HubPal<sup>™</sup> hackathon build core - this is what we will build out for the ethGlobal hackathon.
 * **ENS + Chainlink Functions/Automation + PayPal (PYUSD)**
-* **Walrus (sidecar storage):** store invoices/PoD media; put `sha256` + `walrus://id` on-chain.
+* **Walrus (sidecar storage):** store invoices/PoD media; put `sha256` + `walrus://id` on-chain.**
 * **UI/UX designer for [the new Next UI](https://github.com/HalfHashd/NextUI-08.08.2025).**
 * **Bonus points: Ch.ung dont code... not since failing Basic eons ago, and got PTSD, so have some heart and join me. We will continue this project, launch it, and take over ze world! This is the 1st of the 1000x10.com, 999 more/10 years to halfhash and set sail!** 
 ---
