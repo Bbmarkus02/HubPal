@@ -1,10 +1,10 @@
 # HubPal.org-08.14.25
 **Projects-Payments-Platforms in Plentyful Peace** 08.14.25 <br>
-Highlighed build-to: ENS, PayPal, ChainLink, Circle, Walrus @ ETHGlobal Hackathon.<br> HubPal for: A tokenized comprehensive end-to-end project platform - propose, design and create; underwrite, finance; track, and manage; - featuring dynamic escrow-staking system using ENS domains (e.g., supplier.project.eth) to structure payments with the Chainlink oracles verifying the Web 2, real-world audits, while PayPal/PYUSD-Circle bridges fiat &amp and additionally featuring [the new Next UI](https://github.com/HalfHashd/NextUI-08.08.2025). (MIT License + Commons Clause Restriction.)
+HubPal<sup>™</sup> Highlighed build-to: ENS, PayPal, ChainLink, Circle, Walrus @ ETHGlobal Hackathon.<br> HubPal<sup>™</sup> for: A tokenized comprehensive end-to-end project platform - propose, design and create; underwrite, finance; track, and manage; - featuring dynamic escrow-staking system using ENS domains (e.g., supplier.project.eth) to structure payments with the Chainlink oracles verifying the Web 2, real-world audits, while PayPal/PYUSD-Circle bridges fiat &amp and additionally featuring [the new Next UI](https://github.com/HalfHashd/NextUI-08.08.2025). (MIT License + Commons Clause Restriction.)
 
 # Title: Looking for help - devs, designers, degens to build this...
 
-### HubPal project core - this is what we will build out for the ethGlobal hackathon.
+### HubPal<sup>™</sup> project core - this is what we will build out for the ethGlobal hackathon.
 * **ENS + Chainlink Functions/Automation + PayPal (PYUSD)**
 * **Walrus (sidecar storage):** store invoices/PoD media; put `sha256` + `walrus://id` on-chain.
 * **UI/UX designer for [the new Next UI](https://github.com/HalfHashd/NextUI-08.08.2025).**
