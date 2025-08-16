@@ -1,4 +1,4 @@
-# HubPal.org Exec. Summary (new 08.15.2025 10 p,)
+# HubPal.org Exec. Summary (new 08.15.2025 10 pm)
 <h3 align="center">Mission: Don't we all want responsible projects? Make the world safe from dumps and rugs!</h3>
 </p>
 <p align="center">
@@ -15,7 +15,7 @@ It introduces the **first use of ENS** where projects and their milestones are a
 
 ## Hackathon Build Vision
 
-Since I don’t code (yet!) and plan to have coders join, the goal is to prototype the following:
+Since I don’t code (yet!), the goal is to prototype the following:
 
 ### 1. Platformizing Projects
 - Projects deconstructed into milestones tied to ENS addresses.  
@@ -51,7 +51,8 @@ Since I don’t code (yet!) and plan to have coders join, the goal is to prototy
 
 **Tagline:**  
 *“Build it. Fund it. Track it — milestone by milestone, on-chain and in the real world.”*
-(The following is 1 day older.)
+
+# HubPal.org Exec. Summary (from yesterday, it more detailed, above is more focused.)
 A hybrid Web2/Web3 platform for project creation, funding, underwriting, milestones, tokenization — with ENS-identity, role–based participation, ChainLink RW oracles, PYUSD/USDC for staking/payments, Walrus, and LayerZero.
 
 **Pioneering - This is the first time that any type of projects are platformized (comprehensively?) in the blockchain space, maybe even the first to be online, eva?!**<br>
