@@ -52,7 +52,7 @@ Since I don’t code (yet!), the goal is to prototype the following:
 **Tagline:**  
 *“Build it. Fund it. Track it — milestone by milestone, on-chain and in the real world.”*
 
-# HubPal.org Exec. Summary (from yesterday, it more detailed, above is more focused.)
+# HubPal.org Exec. Summary (from yesterday, below is more detailed, above is more focused.)
 A hybrid Web2/Web3 platform for project creation, funding, underwriting, milestones, tokenization — with ENS-identity, role–based participation, ChainLink RW oracles, PYUSD/USDC for staking/payments, Walrus, and LayerZero.
 
 **Pioneering - This is the first time that any type of projects are platformized (comprehensively?) in the blockchain space, maybe even the first to be online, eva?!**<br>
