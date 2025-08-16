@@ -4,6 +4,8 @@
   <img src="assets/kids-dumps-upside down 30k.png" alt="HubPal mockup" width="18%">
 </p>
 
+BTW. We have these: hubpal.org and hubpal.eth 
+
 # Hubpal.org — Project Summary (Latest refined: 08.15 - 11 pm)
 
 A decentralized project creation, curation, and management platform.  
