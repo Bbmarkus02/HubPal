@@ -10,7 +10,7 @@
 
 BTW. We have these: hubpal.org and hubpal.eth 
 
-# Hubpal.org — Project Summary (Latest refined: 08.15 - 11 pm)
+# Hubpal.org — Project Summary featuring ENS, ChainLink, and PYUSD
 
 A decentralized project creation, curation, and management platform.  
 In simpler uses, it’s a **crowdfunding platform with milestone-based funding releases**, where funds are only unlocked as deliverables are completed.  
