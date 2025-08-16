@@ -11,7 +11,8 @@
 BTW. We have these: hubpal.org and hubpal.eth 
 
 # Hubpal.org — Project Summary featuring ENS, ChainLink, and PYUSD
-- ENS: The first naming of projects, crowdfunding, contract work = supplierBob.AliceRestaurant.HubPal.eth to HubPal.org/eth/AliceRestaurant/supplierBob.
+- ENS: The first naming of projects, crowdfunding, contract work.
+  - supplierBob.AliceRestaurant.HubPal.eth to HubPal.org/eth/AliceRestaurant/supplierBob.
 - ChainLink: The first use for Web 2, Web 3, regular world applications such as project managment-Gnatt chart-business cash flow (Quicken)-property managment (Yardi)-point of sale (Shopify platform, Square).
   - If deliverable/milestone/signoff, Then approve payment, and proceed to next deliverable-milestone. 
 - PYUSD: The first use for staking projects, crowdfunding, installment payments; and regular payments.
