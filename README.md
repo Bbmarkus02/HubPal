@@ -32,7 +32,7 @@ Since I don’t code (yet!), the goal is to prototype the following:
 - Shopify could serve a similar role for commerce-based projects.
 
 ### 3. Chainlink Endpoints as ENS Identities
-- Each Chainlink endpoint can have its **own ENS address + wallet**.  
+- Each Chainlink endpoint can have its **own ENS address + wallet**. (Maybe redundent. However, the oracle could stake the data, insure the data, etc. This is trying to emualte that the oracles have staked their "fixed" pre-built data delivery channels.) 
 - Oracles/CCIP endpoints could even **stake the data they transmit**.  
 
 #### Potential first-time use cases:
