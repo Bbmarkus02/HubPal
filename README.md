@@ -45,7 +45,10 @@ Since I don’t code (yet!), the goal is to prototype the following:
 - **ENS** → Projects, milestones, and participants as addresses  
 - **Chainlink** → Web2 + real-world certification, CCIP for payments  
 - **PayPal PYUSD / Circle USDC** → Stablecoin staking + settlement  
-- **Walrus + SUI** → Distributed storage and data access  
+- **Walrus + SUI** → Distributed storage and data access
+
+## Walrus - About? 
+Walrus (Move language, and SUI based) is very dedicated to decentralized data - per their system, 2/3 of the network have to go down for the data to be not available. But, its bit of additional friction to manage such separate data storage, and the payment of storage fees -- however, perhaps, it's an option of some of HubPal projects to have key data stored in such fashion, and they have prises and heklpful. And the mission is good.
 
 ---
 
