@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Gemini_Image5.png" alt="HubPal logo" width="33%">
+  <img src="assets/Gemini_Image5.png" alt="HubPal logo" width="15%">
 </p>
 
 <h3 align="center">Mission: Don't we all want responsible projects? Make the world safe from dumps and rugs!</h3>
