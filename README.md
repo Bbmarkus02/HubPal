@@ -1,4 +1,57 @@
-# HubPal.org Exec. Summary 
+# HubPal.org Exec. Summary (new 08.15.2025 10 p,)
+<h3 align="center">Mission: Don't we all want responsible projects? Make the world safe from dumps and rugs!</h3>
+</p>
+<p align="center">
+  <img src="assets/kids-dumps-upside down 30k.png" alt="HubPal mockup" width="18%">
+</p>
+
+**A decentralized project creation, curation, and management platform.**  
+
+At its simplest, Hubpal is a **crowdfunding platform with transparent, milestone-based funding releases** — funds are only released as projects progress.  
+
+It introduces the **first use of ENS** where projects and their milestones are actual blockchain addresses. **Chainlink** oracles certify Web2 and real-world events before releasing funds. Payments use **PayPal PYUSD** or **Circle USDC** for staking, while **Walrus + SUI** provide decentralized storage and access to project data.
+
+---
+
+## Hackathon Build Vision
+
+Since I don’t code (yet!) and plan to have coders join, the goal is to prototype the following:
+
+### 1. Platformizing Projects
+- Projects deconstructed into milestones tied to ENS addresses.  
+- Example:  
+  - `HubPal.org/projectA/memberX`  
+  - `HubPal.org/projectA/supplierC`  
+  - `HubPal.org/projectA/lenderD`
+
+### 2. QuickenBooks + Chainlink Integration
+- **First-time use case**: tie QuickenBooks events (invoices, deliverable sign-offs) to Chainlink oracles.  
+- Example:  
+  - A QuickenBooks invoice triggers a milestone release to `/projectA/supplierC`.  
+  - If `projectA` produces revenue, QuickenBooks can signal **automatic revenue sharing** to `/projectA/lenderD` via **Chainlink CCIP**.  
+- Shopify could serve a similar role for commerce-based projects.
+
+### 3. Chainlink Endpoints as ENS Identities
+- Each Chainlink endpoint can have its **own ENS address + wallet**.  
+- Oracles/CCIP endpoints could even **stake the data they transmit**.  
+
+#### Potential first-time use cases:
+- Stake data for reliability.  
+- Carry data + values directly into the right ENS-based project wallet.  
+
+---
+
+## Key Tech Stack (Hackathon Focus)
+- **ENS** → Projects, milestones, and participants as addresses  
+- **Chainlink** → Web2 + real-world certification, CCIP for payments  
+- **PayPal PYUSD / Circle USDC** → Stablecoin staking + settlement  
+- **Walrus + SUI** → Distributed storage and data access  
+
+---
+
+**Tagline:**  
+*“Build it. Fund it. Track it — milestone by milestone, on-chain and in the real world.”*
+(The following is 1 day older.)
 A hybrid Web2/Web3 platform for project creation, funding, underwriting, milestones, tokenization — with ENS-identity, role–based participation, ChainLink RW oracles, PYUSD/USDC for staking/payments, Walrus, and LayerZero.
 
 **Pioneering - This is the first time that any type of projects are platformized (comprehensively?) in the blockchain space, maybe even the first to be online, eva?!**<br>
@@ -12,12 +65,6 @@ We will first target users and projects in the blockchain-crypto space. Why? Bec
 **HubPal<sup>™</sup> highlighed build-to @ ETHGlobal Hackathon: ENS, PayPal, ChainLink, Circle, Walrus.**<br> 
 
 A tokenized comprehensive end-to-end project platform - propose, design and create; underwrite, finance; track, and manage; - featuring dynamic escrow-staking system using ENS domains (e.g., supplier.project.eth) to structure payments with the Chainlink oracles verifying the Web 2, real-world audits, while PayPal/PYUSD-Circle bridges fiat &amp and additionally featuring [the new Next UI](https://github.com/HalfHashd/NextUI-08.08.2025). (MIT License + Commons Clause Restriction.)
-
-<h3 align="center">Mission: Don't we all want responsible projects? Make the world safe from dumps and rugs!</h3>
-</p>
-<p align="center">
-  <img src="assets/kids-dumps-upside down 30k.png" alt="HubPal mockup" width="18%">
-</p>
 
 [ Readme: This HubPal project start* date-08.13. It evolved from 2 other project ideas - first was [the new Next UI](https://github.com/HalfHashd/NextUI-08.08.2025) and is being rolled into the currnet project; the second was [the "States-ing"](https://github.com/HalfHashd/States-ing-08.13.2025) with a focus on ENS and theGraph but on hold. *HubPal investigation-ideation started 4 years ago and is part of deep root analysis and investigation into the world's economic model where I deconstructed "everything" - money, debt, what decentralized finance is (clue: its among peers and peers dont have debt, and backed into Sharia Law based finance), and even what is our alphanumeric language. Thus, the platform has been richly ideated out prior to this date, but no code, zip nada, written. ]
 
