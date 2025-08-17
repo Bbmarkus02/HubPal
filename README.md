@@ -8,8 +8,6 @@
   <img src="assets/kids-dumps-upside down 30k.png" alt="HubPal mockup" width="18%">
 </p>
 
-BTW. We have these: hubpal.org and hubpal.eth 
-
 # Hubpal.org — Project Summary featuring ENS, ChainLink, and PYUSD
 - ENS: The first naming of projects, crowdfunding, contract work.
   - supplierBob.AliceRestaurant.HubPal.eth to HubPal.org/eth/AliceRestaurant/supplierBob.
